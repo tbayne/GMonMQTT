@@ -1,0 +1,34 @@
+hash: b3bb73fbd92876d125e179068598137c77198f521593f608d0bda9a9b5474dbc
+updated: 2016-04-25T06:45:17.457323833-05:00
+imports:
+- name: github.com/alecthomas/kingpin
+  version: 17ed8436d0af947a5e459042917668b6c8b6e617
+- name: github.com/alecthomas/template
+  version: a0175ee3bccc567396460bf5acd36800cb10c49c
+  subpackages:
+  - parse
+- name: github.com/alecthomas/units
+  version: 2efee857e7cfd4f3d0138cc3cbb1b4966962b93a
+- name: github.com/cihub/seelog
+  version: a98235bd6d927ba8379ef4f0050c32c9a2ea17b8
+- name: github.com/eclipse/paho.mqtt.golang
+  version: 0f7a459f04f13a41b7ed752d47944528d4bf9a86
+  subpackages:
+  - packets
+- name: github.com/gizak/termui
+  version: 6a96276a036b97e1de2ee191e8ca041c5e779099
+- name: github.com/jessevdk/go-flags
+  version: 6b9493b3cb60367edd942144879646604089e3f7
+- name: github.com/mattn/go-runewidth
+  version: d6bea18f789704b5f83375793155289da36a3c7f
+- name: github.com/mitchellh/go-wordwrap
+  version: ad45545899c7b13c020ea92b2072220eefad42b8
+- name: github.com/nsf/termbox-go
+  version: 362329b0aa6447eadd52edd8d660ec1dff470295
+- name: golang.org/x/net
+  version: b797637b7aeeed133049c7281bfa31dcc9ca42d6
+  subpackages:
+  - websocket
+- name: gopkg.in/alecthomas/kingpin.v2
+  version: 8cccfa8eb2e3183254457fb1749b2667fbc364c7
+devImports: []
